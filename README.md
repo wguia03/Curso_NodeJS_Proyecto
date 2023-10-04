@@ -1,5 +1,4 @@
 ## Curso NodeJS - Proyecto Final
-https://curso-nodejs-proyecto.onrender.com/
 
 #### Notas finales:
 - Considerar la implementación del archivo ".nvmrc" para especificar la versión de Node usada y evitar errores en despliegue
