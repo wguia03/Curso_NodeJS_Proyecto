@@ -1,4 +1,4 @@
-## Sistema de Seguimiento de ventas
+## Sistema de Seguimiento de Ventas
 - Proyecto final de un curso introductorio al desarrollo backend y Node.js
 - API REST para administrar las operaciones básicas dentro de una tienda
 - Las entidades principales son usuarios, productos y ventas
